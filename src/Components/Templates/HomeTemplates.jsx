@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 const HomeTemplates = () => {
-  const saludos = "Bievenidos en HomeTemplates";
+  const saludos = "Bievenido en HomeTemplates";
   return (
     <Container>
       <div>
